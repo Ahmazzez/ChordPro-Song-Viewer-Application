@@ -47,7 +47,6 @@ No external packages are required.
 │   ├── chords.js
 │   ├── client.js
 │   ├── eventListeners.js
-│   ├── favicon.ico
 │   └── index.html
 ├── songs/
 │   ├── All Shook Up.txt
@@ -70,22 +69,6 @@ You can check your installed version with:
 ```bash
 node --version
 ```
-
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/your-repository-name.git
-```
-
-Move into the project folder:
-
-```bash
-cd your-repository-name
-```
-
-No additional installation is required because the project does not use external npm packages.
 
 ## Running the Application
 
