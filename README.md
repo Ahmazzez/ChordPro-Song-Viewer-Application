@@ -187,4 +187,4 @@ Ahmad Kanaan
 
 ## License
 
-This project was created for academic purposes. Add a license before using, modifying, or distributing it publicly.
+This project was created for academic purposes.
